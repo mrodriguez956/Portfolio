@@ -1,16 +1,13 @@
 {
-  "name": "michael-rodriguez-portfolio",
-  "version": "1.0.0",
-  "main": "script.js",
-  "scripts": {
-    "start": "eleventy --serve",
-    "build": "eleventy"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "I had to make this",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs"
   },
   "dependencies": {
     "a-sync-waterfall": "^1.0.1",
@@ -201,5 +198,11 @@
     "ws": "^8.18.0",
     "yallist": "^4.0.0"
   },
-  "description": ""
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
