@@ -182,7 +182,7 @@ top: -25px;
 
 .card .coming-soon
 {
-  background-image: url(https://raw.githubusercontent.com/mrodriguez956/portfolio/main/docs/assets/images/coming-soon.svg?sanitize=true);
+  background-image: url(/docs/assets/images/coming-soon.svg);
   background-size: cover;
   display: block;
   right: 0;
